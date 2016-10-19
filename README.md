@@ -3,7 +3,7 @@
 ### Tutorial 101: Testing RESTful CRUD with Mocha Chai
 
 Hi! welcome to Tutorial 101..
-in this tutorial we will learn about how to build testing code for RESTful API CRUD with Mocha Chai. This tutorial is extended series of [Tutorial 101: ExpressJS RESTful CRUD with Mongoose](https://github.com/digachandra/Tutor101-ExpressJS-RESTful-CRUD-with-Mongoose "Tutorial 101: ExpressJS RESTful CRUD with Mongoose"). So let's get started!
+in this tutorial we will learn about how to build testing code for RESTful API CRUD with Mocha Chai. This tutorial is extended series of [Tutorial 101: ExpressJS RESTful CRUD with Mongoose](https://github.com/digachandra/tutor101-express-restful-mongoose "Tutorial 101: ExpressJS RESTful CRUD with Mongoose"). So let's get started!
 
 ---
 #### NOTE
